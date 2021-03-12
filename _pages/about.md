@@ -14,10 +14,15 @@ Currently, I am working with <a href="https://isetnju.github.io/guq/index.html" 
 Experience
 ======
 Sep. 2021 - Present
+
 Ph.D. student, Department of Computer Science and Technology, Nanjing University
+
 Sep. 2018 - Jun. 2021
+
 M.Sc. student, Department of Computer Science and Technology, Nanjing University
+
 Sept. 2014 - Jun. 2018
+
 B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
