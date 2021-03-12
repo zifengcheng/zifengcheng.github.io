@@ -20,12 +20,15 @@ My prior research experience included both sentiment analysis, essay scoring, re
 Experience
 ======
 Sep. 2021 - Present
+
 Ph.D. student, Department of Computer Science and Technology, Nanjing University
 
 Sep. 2018 - Jun. 2021
+
 M.Sc. student, Department of Computer Science and Technology, Nanjing University
 
 Sept. 2014 - Jun. 2018
+
 B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
@@ -50,3 +53,8 @@ Selected Awards and Honors
 Professional Services
 ======
 Program Committee Member (Reviewer):
+
+Correspondence
+======
+<b>Email</b>: chengzf@smail.nju.edu.cn
+Office: Room 612, Computer Science Building, Xianlin Campus of Nanjing University
