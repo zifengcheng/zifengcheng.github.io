@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I received my B.E. degree from Qingdao University, China in June 2018.
+In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. Qing Gu[https://isetnju.github.io/guq/index.html].
+Currently, I am working with <a href="https://isetnju.github.io/guq/index.html" target="_black"> Prof. Qing Gu</a> and <a href="https://cs.nju.edu.cn/jzw/" target="_black"> Assistant Researcher Zhiwei Jiang</a> for a Ph.D. degree.</p>
 
 A data-driven personal website
 ======
