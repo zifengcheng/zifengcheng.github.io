@@ -33,11 +33,17 @@ Selected Publications
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
 
-2. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring</a>
+2. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
     <br>
     Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, and Qing Gu
     <br>
     <i>In Proceedings of the Web Conference</i>, 2020. (<b>WWW 2021</b>)
+    
+Main Research Interests
+======
+
+I have a broad interest in natural language processing and machine learning.
+My prior research experience included both sentiment analysis, essay scoring, relation extraction and dialog.
 
 Selected Awards and Honors
 ======
