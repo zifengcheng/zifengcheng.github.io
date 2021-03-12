@@ -10,19 +10,22 @@ redirect_from:
 I received my B.E. degree from Qingdao University, China in June 2018.
 In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of <a href="https://isetnju.github.io/guq/index.html" target="_black"> Prof. Qing Gu.
 Currently, I am working with <a href="https://isetnju.github.io/guq/index.html" target="_black"> Prof. Qing Gu</a> and <a href="https://cs.nju.edu.cn/jzw/" target="_black"> Assistant Researcher Zhiwei Jiang</a> for a Ph.D. degree.
+  
+Main Research Interests
+======
+
+I have a broad interest in natural language processing and machine learning.
+My prior research experience included both sentiment analysis, essay scoring, relation extraction and dialog.
 
 Experience
 ======
 Sep. 2021 - Present
-
 Ph.D. student, Department of Computer Science and Technology, Nanjing University
 
 Sep. 2018 - Jun. 2021
-
 M.Sc. student, Department of Computer Science and Technology, Nanjing University
 
 Sept. 2014 - Jun. 2018
-
 B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
@@ -39,11 +42,6 @@ Selected Publications
     <br>
     <i>In Proceedings of the Web Conference</i>, 2020. (<b>WWW 2021</b>)
     
-Main Research Interests
-======
-
-I have a broad interest in natural language processing and machine learning.
-My prior research experience included both sentiment analysis, essay scoring, relation extraction and dialog.
 
 Selected Awards and Honors
 ======
