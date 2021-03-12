@@ -1,17 +1,6 @@
-<div id="toptitle">
-  <h1>Selected Publications   </h1>
-</div>
-<!-- Generated from JabRef by PubList by Truong Nghiem at 03:23 on 2017.07.10. -->
-
-
-<!-- Item: DBLP:journals/jos/JiangGHLGC -->
-
-
-<h2>Journal</h2>
-<ol>
-
-
 <li>
-  <p><span class="STYLE1">[TSE] </span><strong> Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction. </strong><br>
-Chao Ni, Xin Xia, David Lo, Xiang Chen, Qing Gu<br>
- <em>IEEE Transactions on Software Engineering</
+  <p><span class="STYLE1">[IST]</span> <strong> LaProb: A Label Propagation Based Software Bug Localization Method.</strong><br>
+Zhengliang Li, Zhiwei Jiang, Xiang Chen, Kaibo Cao, Qing Gu<br>
+<em>Information and Software Technology</em>. 2021, 130: 106410:1-106410:15. <span class="STYLE1">(CCF B)
+</span>
+<br>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584920301713">Link</a>]</li>
