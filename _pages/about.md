@@ -15,7 +15,7 @@ Main Research Interests
 ======
 
 I have a broad interest in natural language processing and machine learning.
-My prior research experience included both sentiment analysis, essay scoring, relation extraction and dialog.
+My prior research experience included both sentiment analysis, sequence labeling, relation extraction, and so on.
 
 Experience
 ======
