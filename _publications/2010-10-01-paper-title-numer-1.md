@@ -6,12 +6,6 @@
 	<span class="STYLE1">(CCF B)</span> <br>
 	[<a href="https://www.aclweb.org/anthology/2020.coling-main.12/">Link</a>]
 
----
-
-<p><span class="STYLE1">2. [WWW-2021]</span> <strong>Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring</strong><br>
-    Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <strong>Zifeng Cheng</strong>, Qing Gu,<br>
-    <em>In Proceedings of The Web Conference (WWW 2021)</em>. 2021. <span class="STYLE1">(CCF A)</span> <br> 
-	[<a href="https://www.aclweb.org/anthology/2020.coling-main.12/">Link</a>]
 	
 
 
