@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[A Symmetric Local Search Network for Emotion-Cause Pair Extraction](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
 <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, Qing Gu.
-<i>In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)</i>.
+<b>In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)</b>.
 
 <b>[Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
 Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, Qing Gu.
