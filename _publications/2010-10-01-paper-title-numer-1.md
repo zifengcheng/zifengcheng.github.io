@@ -2,9 +2,8 @@
 title: "A Symmetric Local Search Network for Emotion-Cause Pair Extraction"
 collection: publications
 permalink: /publication/forthcoming-peace-agreement-strength
-date: 2021-01-27
-venue: 'Political Science Research and Methods'
-link: 'https://doi.org/10.1017/psrm.2019.23'
+date: 2020-10-01
+venue: 'In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)'
 ---
 
 ---
