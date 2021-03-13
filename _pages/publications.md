@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[A Symmetric Local Search Network for Emotion-Cause Pair Extraction](http://lantaoyu.com/publications/RAL21)</b> <br>
+<b>[A Symmetric Local Search Network for Emotion-Cause Pair Extraction](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
 <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, Qing Gu.
 <i>In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)</i>.
 
-<b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
-Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
-<i>Preprint. arXiv:2010.00578</i>
+<b>[Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
+Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, Qing Gu.
+<i>In Proceedings of the Web Conference (WWW 2021)</i>.
 
 
 
