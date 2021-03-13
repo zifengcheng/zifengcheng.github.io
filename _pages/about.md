@@ -25,7 +25,7 @@ Ph.D. student, Department of Computer Science and Technology, Nanjing University
 
 Sep. 2018 - Jun. 2021
 
-M.Sc. student, Department of Computer Science and Technology, Nanjing University
+M.Sc., Department of Computer Science and Technology, Nanjing University
 
 Sept. 2014 - Jun. 2018
 
