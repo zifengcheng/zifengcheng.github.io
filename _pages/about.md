@@ -21,7 +21,7 @@ Experience
 ======
 Sep. 2021 - Present
 
-Ph.D. student, Department of Computer Science and Technology, Nanjing University
+Ph.D. Candidate, Department of Computer Science and Technology, Nanjing University
 
 Sep. 2018 - Jun. 2021
 
@@ -49,6 +49,7 @@ Selected Publications
 Selected Awards and Honors
 ======
 1. YEEPAY Scholarship at Nanjing University, 2020
+2. Outstanding Graduate Student, Nanjing University, 2020
 
 Professional Services
 ======
