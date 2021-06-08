@@ -33,7 +33,7 @@ B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
 ======
-1. <a>A Symmetric Local Search Network for Emotion-Cause Pair Extraction</a>
+1. A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
