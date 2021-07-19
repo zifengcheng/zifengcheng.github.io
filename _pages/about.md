@@ -38,8 +38,13 @@ Selected Publications
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
+2. A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
+    <br>
+    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
+    <br>
+    <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
 
-2. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
+3. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
     <br>
     Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, and Qing Gu
     <br>
