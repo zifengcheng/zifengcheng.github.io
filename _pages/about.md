@@ -38,6 +38,7 @@ Selected Publications
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
+    
 2. A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
