@@ -49,7 +49,7 @@ Selected Publications
     <br>
     Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, and Qing Gu
     <br>
-    <i>In Proceedings of the Web Conference</i>, 2020. (<b>WWW 2021</b>)
+    <i>In Proceedings of the Web Conference</i>, 2021. (<b>WWW 2021</b>)
     
 
 Selected Awards and Honors
