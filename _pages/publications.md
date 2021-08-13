@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
-<b>2021</b><br>
+<p><font size="10">2021</font></p>
 
 <b>[A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction](https://ieeexplore.ieee.org/document/9511845)</b> <br>
 <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu.<br>
