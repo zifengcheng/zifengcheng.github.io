@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
+<b>[A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction](https://ieeexplore.ieee.org/document/9511845)</b> <br>
 <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu.<br>
 <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2021)</i>.<br>
 <b>[code](https://github.com/zifengcheng/UTOS)</b><br>
