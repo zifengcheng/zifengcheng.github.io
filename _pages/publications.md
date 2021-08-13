@@ -15,7 +15,7 @@ author_profile: true
 Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, Qing Gu.<br>
 <i>In Proceedings of the Web Conference (WWW 2021)</i>.
 
-<b>2020</b><br>
+<p><b><font size="10">2021</font></b></p>
 
 <b>[A Symmetric Local Search Network for Emotion-Cause Pair Extraction](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
 <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, Qing Gu.<br>
