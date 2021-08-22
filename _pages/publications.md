@@ -6,21 +6,25 @@ author_profile: true
 
 <p><b><font size="5">2021</font></b></p>
 
-<b>[A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction](https://ieeexplore.ieee.org/document/9511845)</b> <br>
-<b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu.<br>
-<i>IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2021)</i>.<br>
-<b>[code](https://github.com/zifengcheng/UTOS)</b><br>
+## 2021
+* **A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction.** <br> 
+  **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu. <br>
+  <i>In Proceedings of the 28th International Conference on Computational Linguistics (TASLP 2021)</i><br>
+  [[code](https://github.com/zifengcheng/UTOS)] [[paper](https://ieeexplore.ieee.org/document/9511845)] 
+  
+  * **Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring.** <br> 
+  Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, **Zifeng Cheng**, Qing Gu <br>
+  <i>In Proceedings of the Web Conference (WWW 2021)</i><br>
+  [[paper](https://ieeexplore.ieee.org/document/9511845)] 
 
-<b>[Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring](https://dl.acm.org/doi/10.1145/3442381.3450017)</b> <br>
-Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, Qing Gu.<br>
-<i>In Proceedings of the Web Conference (WWW 2021)</i>.
 
-<p><b><font size="5">2020</font></b></p>
 
-<b>[A Symmetric Local Search Network for Emotion-Cause Pair Extraction](https://www.aclweb.org/anthology/2020.coling-main.12/)</b> <br>
-<b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, Qing Gu.<br>
-<i>In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)</i>.<br>
-<b>[code](https://github.com/bigorange-Petrichor/SLSN)</b><br>
+## 2020  
+* **A Symmetric Local Search Network for Emotion-Cause Pair Extraction.** <br> 
+  **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Hua Yu, Qing Gu. <br>
+  <i>In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)</i><br>
+  [[code](https://github.com/bigorange-Petrichor/SLSN)] [[paper](https://www.aclweb.org/anthology/2020.coling-main.12/)] 
+
 
 
 
