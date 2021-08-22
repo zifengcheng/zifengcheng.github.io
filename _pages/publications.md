@@ -12,7 +12,7 @@ author_profile: true
   <i>In Proceedings of the 28th International Conference on Computational Linguistics (TASLP 2021)</i><br>
   [[code](https://github.com/zifengcheng/UTOS)] [[paper](https://ieeexplore.ieee.org/document/9511845)] 
   
-  * **Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring.** <br> 
+* **Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring.** <br> 
   Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, **Zifeng Cheng**, Qing Gu <br>
   <i>In Proceedings of the Web Conference (WWW 2021)</i><br>
   [[paper](https://ieeexplore.ieee.org/document/9511845)] 
