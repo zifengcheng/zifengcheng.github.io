@@ -9,7 +9,7 @@ author_profile: true
 ## 2021
 * **A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction.** <br> 
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Na Li, Qing Gu. <br>
-  <i>In Proceedings of the 28th International Conference on Computational Linguistics (TASLP 2021)</i><br>
+  <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2021)</i><br>
   [[code](https://github.com/zifengcheng/UTOS)] [[paper](https://ieeexplore.ieee.org/document/9511845)] 
   
 * **Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring.** <br> 
