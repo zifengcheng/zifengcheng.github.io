@@ -13,7 +13,7 @@ author_profile: true
 * **Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring.** <br> 
   Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, **Zifeng Cheng**, Qing Gu <br>
   <i>In Proceedings of the Web Conference (WWW 2021)</i><br>
-  [[paper](https://ieeexplore.ieee.org/document/9511845)] 
+  [[paper](https://dl.acm.org/doi/10.1145/3442381.3450017)] 
 
 
 
