@@ -27,7 +27,7 @@ Sep. 2018 - Jun. 2021
 <br>
 M.Sc., Department of Computer Science and Technology, Nanjing University
 
-Sept. 2014 - Jun. 2018
+Sep. 2014 - Jun. 2018
 <br>
 B.E., School of Data Science and Software Engineering, Qingdao University
 
