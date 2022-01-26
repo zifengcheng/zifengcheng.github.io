@@ -7,7 +7,7 @@ author_profile: true
 * **Learning to Classify Open Intent via Soft Labeling and Manifold Mixup.** <br> 
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Cong Wang, Qing Gu. <br>
   <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2022)</i><br>
-  [[code](https://github.com/zifengcheng/SMLL)] [[paper](https://ieeexplore.ieee.org/document/9511845)] 
+  [[code](https://github.com/zifengcheng/SMLL)] [[paper](https://ieeexplore.ieee.org/document/9693239)] 
   
 ## 2021
 * **A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction.** <br> 
