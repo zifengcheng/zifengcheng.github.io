@@ -66,8 +66,9 @@ Selected Publications
 
 Selected Awards and Honors
 ======
-1. YEEPAY Scholarship at Nanjing University, 2020
-2. Outstanding Graduate Student, Nanjing University, 2020
+1. Yingcai Scholarship, Nanjing University, 2021
+2. YEEPAY Scholarship, Nanjing University, 2020
+3. Outstanding Graduate Student, Nanjing University, 2020
 
 Professional Services
 ======
