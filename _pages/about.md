@@ -33,7 +33,7 @@ B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
 ======
-1. Learning to Classify Open Intent via Soft Labeling and Manifold Mixup
+1. A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
     <br>
