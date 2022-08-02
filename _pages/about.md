@@ -35,23 +35,29 @@ Selected Publications
 ======
 1. Learning to Classify Open Intent via Soft Labeling and Manifold Mixup
     <br>
+    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
+    <br>
+    <i>ACM Transactions on Information Systems</i>, 2022. (<b>TOIS 2022</b>)
+    
+2. Learning to Classify Open Intent via Soft Labeling and Manifold Mixup
+    <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2022. (<b>TASLP 2022</b>)
     
-2. A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
+3. A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
     
-3. A Symmetric Local Search Network for Emotion-Cause Pair Extraction
+4. A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
 
-4. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
+5. Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
     <br>
     Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, and Qing Gu
     <br>
