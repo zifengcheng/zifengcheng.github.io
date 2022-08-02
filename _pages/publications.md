@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+* **A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction.** <br> 
+  **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Qing Gu. <br>
+  <i>ACM Transactions on Information Systems (TOIS 2022)</i><br>
+  [[code](https://github.com/zifengcheng/CD-MRC)] [[paper](https://ieeexplore.ieee.org/document/9693239)] 
+    
 * **Learning to Classify Open Intent via Soft Labeling and Manifold Mixup.** <br> 
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Cong Wang, Qing Gu. <br>
   <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2022)</i><br>
