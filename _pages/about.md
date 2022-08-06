@@ -19,15 +19,15 @@ My prior research experience included both emotion-cause pair extraction, open i
 
 Experience
 ======
-Sep. 2021 - Present
+* Sep. 2021 - Present
 <br>
 Ph.D. Candidate, Department of Computer Science and Technology, Nanjing University
 
-Sep. 2018 - Jun. 2021
+* Sep. 2018 - Jun. 2021
 <br>
 M.Sc., Department of Computer Science and Technology, Nanjing University
 
-Sep. 2014 - Jun. 2018
+* Sep. 2014 - Jun. 2018
 <br>
 B.E., School of Data Science and Software Engineering, Qingdao University
 
