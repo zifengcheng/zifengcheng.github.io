@@ -33,7 +33,7 @@ B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
 ======
-# 2022
+## 2022
 * A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
@@ -60,7 +60,7 @@ Selected Publications
     <br>
     <i>In Proceedings of the Web Conference</i>, 2021. (<b>WWW 2021</b>)
     
-# 2020
+## 2020
 
 * A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
