@@ -71,9 +71,9 @@ Selected Publications
 
 Selected Awards and Honors
 ======
-1. Yingcai Scholarship, Nanjing University, 2021
-2. YEEPAY Scholarship, Nanjing University, 2020
-3. Outstanding Graduate Student, Nanjing University, 2020
+* Yingcai Scholarship, Nanjing University, 2021
+* YEEPAY Scholarship, Nanjing University, 2020
+* Outstanding Graduate Student, Nanjing University, 2020
 
 Professional Services
 ======
@@ -83,6 +83,6 @@ ACL Rolling Review(ARR), EMNLP(2022), COLING(2022), EMNLP(2021)
 
 Correspondence
 ======
-<b>Email</b>: chengzf@smail.nju.edu.cn
+* <b>Email</b>: chengzf@smail.nju.edu.cn
 
-Office: Room 612, Computer Science Building, Xianlin Campus of Nanjing University
+* <b>Office</b>: Room 612, Computer Science Building, Xianlin Campus of Nanjing University
