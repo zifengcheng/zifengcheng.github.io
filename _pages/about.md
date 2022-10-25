@@ -71,6 +71,7 @@ Selected Publications
 
 Selected Awards and Honors
 ======
+* Huawei Scholarship, Nanjing University, 2022
 * Yingcai Scholarship, Nanjing University, 2021
 * YEEPAY Scholarship, Nanjing University, 2020
 * Outstanding Graduate Student, Nanjing University, 2020
