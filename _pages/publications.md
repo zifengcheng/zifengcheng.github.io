@@ -3,6 +3,12 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
+
+## 2023
+* **Controlling Class Layout for Deep Ordinal Classification via Constrained Proxies Learning.** <br> 
+  Cong Wang, Zhiwei Jiang, Yafeng Yin, **Zifeng Cheng**, Shiping Ge, Qing Gu. <br>
+  <i>AAAI Conference on Artificial Intelligence (AAAI 2023)</i><br>
+
 ## 2022
 * **A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction.** <br> 
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Qing Gu. <br>
