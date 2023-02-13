@@ -34,6 +34,12 @@ B.E., School of Data Science and Software Engineering, Qingdao University
 Selected Publications
 ======
 ## 2023
+* Learning Robust Multi-Modal Representation for Multi-Label Emotion Recognition via Adversarial Masking and Perturbation
+  <br> 
+  Shiping Ge, Zhiwei Jiang, <b>Zifeng Cheng</b>, Cong Wang, Yafeng Yin, Qing Gu
+  <br>
+  <i>In Proceedings of the Web Conference</i>, 2023. (<b>WWW 2023</b>)
+  
 * Controlling Class Layout for Deep Ordinal Classification via Constrained Proxies Learning 
   <br> 
   Cong Wang, Zhiwei Jiang, Yafeng Yin, <b>Zifeng Cheng</b>, Shiping Ge, and Qing Gu
