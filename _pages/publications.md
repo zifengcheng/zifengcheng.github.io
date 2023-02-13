@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## 2023
+* **Learning Robust Multi-Modal Representation for Multi-Label Emotion Recognition via Adversarial Masking and Perturbation.** <br> 
+  Shiping Ge, Zhiwei Jiang, **Zifeng Cheng**, Cong Wang, Yafeng Yin, Qing Gu. <br>
+  <i>In Proceedings of the Web Conference (WWW 2023)</i><br>
+  
 * **Controlling Class Layout for Deep Ordinal Classification via Constrained Proxies Learning.** <br> 
   Cong Wang, Zhiwei Jiang, Yafeng Yin, **Zifeng Cheng**, Shiping Ge, Qing Gu. <br>
   <i>AAAI Conference on Artificial Intelligence (AAAI 2023)</i><br>
