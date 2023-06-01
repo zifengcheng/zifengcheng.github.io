@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 ## 2023
+* **Aggregating Multiple Heuristic Signals as Supervision for Unsupervised Automated Essay Scoring.** <br> 
+  Cong Wang, Zhiwei Jiang, Yafeng Yin, **Zifeng Cheng**, Shiping Ge, Qing Gu. <br>
+  <i>In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</i><br>
+  
+* **Improving Domain Generalization for Prompt-Aware Essay Scoring via Disentangled Representation Learning.** <br> 
+  Zhiwei Jiang, Tianyi Gao, Yafeng Yin, Meng Liu, Hua Yu, **Zifeng Cheng**, Qing Gu. <br>
+  <i>In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</i><br>
+ 
 * **Learning Robust Multi-Modal Representation for Multi-Label Emotion Recognition via Adversarial Masking and Perturbation.** <br> 
   Shiping Ge, Zhiwei Jiang, **Zifeng Cheng**, Cong Wang, Yafeng Yin, Qing Gu. <br>
   <i>In Proceedings of the Web Conference (WWW 2023)</i><br>
