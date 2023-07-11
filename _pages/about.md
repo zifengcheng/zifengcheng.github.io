@@ -60,12 +60,6 @@ Selected Publications
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
-
-* Learning from Graph Propagation via Ordinal Distillation for One-Shot Automated Essay Scoring
-    <br>
-    Zhiwei Jiang, Meng Liu, Yafeng Yin, Hua Yu, <b>Zifeng Cheng</b>, and Qing Gu
-    <br>
-    <i>In Proceedings of the Web Conference</i>, 2021. (<b>WWW 2021</b>)
     
 ## 2020
 
