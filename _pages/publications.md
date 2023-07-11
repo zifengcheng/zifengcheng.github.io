@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## 2023
+* **Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling.** <br>
+  **Zifeng Cheng**, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, Qing Gu. <br>
+  <i>ACM Transactions on Information Systems (TOIS 2023)</i><br>
+  [[code](https://github.com/zifengcheng/CDAP)]
+  
 * **Aggregating Multiple Heuristic Signals as Supervision for Unsupervised Automated Essay Scoring.** <br> 
   Cong Wang, Zhiwei Jiang, Yafeng Yin, **Zifeng Cheng**, Shiping Ge, Qing Gu. <br>
   <i>In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</i><br>
