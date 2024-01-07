@@ -26,6 +26,10 @@ author_profile: true
   Cong Wang, Zhiwei Jiang, Yafeng Yin, **Zifeng Cheng**, Shiping Ge, Qing Gu. <br>
   <i>AAAI Conference on Artificial Intelligence (AAAI 2023)</i><br>
 
+* **Learning Event-Specific Localization Preferences for Audio-Visual Event Localization.** <br> 
+  Shiping Ge, Zhiwei Jiang, Yafeng Yin, Cong Wang, **Zifeng Cheng**, Qing Gu. <br>
+  <i>In Proceedings of the ACM International Conference on Multimedia (MM 2023)</i><br>
+
 ## 2022
 * **A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction.** <br> 
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Qing Gu. <br>
