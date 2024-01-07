@@ -82,8 +82,8 @@ Professional Services
 Program Committee Member (Reviewer):
 <br>
 Conference: <br>
-ACL Rolling Review(ARR), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)<br>
-Journal: <br><br>
+ACL Rolling Review(ARR), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)<br><br>
+Journal: <br>
 TASLP
 
 Correspondence
