@@ -33,6 +33,14 @@ B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
 ======
+
+## 2024
+* Multi-Prompting Decoder Helps Better Language Understanding
+  <br> 
+  <b>Zifeng Cheng</b>, Zhaoling Chen, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu
+  <br>
+  <i>arXiv</i>, 2024. (<b>arXiv 2024</b>)
+  
 ## 2023
 * Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling
   <br> 
