@@ -37,7 +37,7 @@ Selected Publications
 ## 2024
 * Multi-Prompting Decoder Helps Better Language Understanding
   <br> 
-  <b>Zifeng Cheng</b>*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu
+  <b>Zifeng Cheng</b>, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu
   <br>
   <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
   
