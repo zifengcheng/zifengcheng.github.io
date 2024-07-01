@@ -9,12 +9,12 @@ redirect_from:
 ---
 I received my B.E. degree from Qingdao University, China in June 2018.
 In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu</a>.
-Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu</a> and Assistant Researcher <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang</a> for a Ph.D. degree.
+Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang</a> for a Ph.D. degree.
   
 Main Research Interests
 ======
 
-I have a broad interest in natural language processing and machine learning.
+I have a broad interest in large language model and natural language processing.
 My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.
 
 Experience
