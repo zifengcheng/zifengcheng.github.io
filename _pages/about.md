@@ -35,6 +35,12 @@ Selected Publications
 ======
 
 ## 2024
+* Sentence embedding
+  <br> 
+  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, and Qing Gu
+  <br>
+  <i>arXiv: 2408.XXXXX</i>, 2024. (<b>arXiv 2024</b>)
+  
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
   <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu
