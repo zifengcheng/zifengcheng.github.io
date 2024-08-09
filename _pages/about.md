@@ -35,6 +35,12 @@ Selected Publications
 ======
 
 ## 2024
+* A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
+  <br> 
+  <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu
+  <br>
+  <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
+  
 * Multi-Prompting Decoder Helps Better Language Understanding
   <br> 
   <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu
