@@ -21,7 +21,7 @@ Experience
 ======
 * Sep. 2021 - Present
 <br>
-Ph.D. Candidate, Department of Computer Science and Technology, Nanjing University
+Ph.D. Candidate, School of Computer Science, Nanjing University
 
 * Sep. 2018 - Jun. 2021
 <br>
@@ -102,7 +102,7 @@ Professional Services
 ======
 Program Committee Member (Reviewer):
 <br>
-* <b>Conference</b>: ACL Rolling Review(ARR), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)
+* <b>Conference</b>: ACL Rolling Review(ARR), ICLR(2025), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)
 
 * <b>Journal</b>: TASLP
 
