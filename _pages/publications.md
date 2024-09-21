@@ -15,7 +15,6 @@ author_profile: true
   
 * **Multi-Prompting Decoder Helps Better Language Understanding.** <br>
   **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu<br>
-  <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
   <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings (findings of EMNLP 2024)</i><br>
 
 ## 2023
