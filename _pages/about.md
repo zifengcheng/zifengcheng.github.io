@@ -52,7 +52,7 @@ Selected Publications
   <br> 
   <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuliang Liu, and Qing Gu
   <br>
-  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings</i>, 2024. (<b>findings of EMNLP 2024</b>)
+  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - findings</i>, 2024. (<b>findings of EMNLP 2024</b>)
 
 <!--
 * Multi-Prompting Decoder Helps Better Language Understanding
