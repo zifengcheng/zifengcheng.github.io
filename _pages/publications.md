@@ -5,17 +5,23 @@ author_profile: true
 ---
 
 ## 2024
+<!--
 * **Sentence embedding.** <br>
   Yuchen Fu\*, **Zifeng Cheng**\*, Zhiwei Jiang, Yafeng Yin, and Qing Gu<br>
-  <i>arXiv: 2408.XXX</i>, 2024. (<b>arXiv 2024</b>)
+  <i>arXiv: 2408.XXX</i>, 2024. (<b>arXiv 2024</b>)-->
   
 * **A Debiased Nearest Neighbors Framework for Multi-Label Text Classification.** <br>
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu<br>
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
-  
+
+* **Multi-Prompting Decoder Helps Better Language Understanding.** <br>
+ **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu<br>
+  <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
+
+<!-- 
 * **Multi-Prompting Decoder Helps Better Language Understanding.** <br>
   **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu<br>
-  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings (Findings of EMNLP 2024)</i><br>
+  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings (Findings of EMNLP 2024)</i><br>-->
 
 ## 2023
 * **Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling.** <br>
