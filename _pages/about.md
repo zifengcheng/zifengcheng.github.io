@@ -15,11 +15,11 @@ Main Research Interests
 ======
 
 I have a broad interest in large language models (LLMs) and natural language processing (NLP).
-* Test-time or training-free method for LLMs
+* Test-time or training-free algorithm for LLMs
 
 * Attack and Defense of LLMs
 
-* Downstream task adaptation of LLMs, including few-shot or zero-shot learning on NLP tasks
+* Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks
 
 * Hallucinations of LLMs
 
