@@ -14,8 +14,17 @@ Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.
 Main Research Interests
 ======
 
-I have a broad interest in large language models and natural language processing.
-My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.
+I have a broad interest in large language models (LLMs) and natural language processing (NLP).
+* Test-time or training-free method for LLMs
+
+* Attack and Defense of LLMs
+
+* Downstream task adaptation of LLMs, including few-shot or zero-shot learning on NLP tasks
+
+* Hallucinations of LLMs
+
+* Intervention and Editing for LLMs
+%My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.
 
 Research Experience
 ======
