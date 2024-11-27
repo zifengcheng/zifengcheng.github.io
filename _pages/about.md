@@ -14,10 +14,10 @@ Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.
 Main Research Interests
 ======
 
-I have a broad interest in large language model and natural language processing.
+I have a broad interest in large language models and natural language processing.
 My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.
 
-Experience
+Research Experience
 ======
 * Sep. 2021 - Present
 <br>
@@ -27,20 +27,16 @@ Ph.D. Candidate, School of Computer Science, Nanjing University
 <br>
 M.Sc., Department of Computer Science and Technology, Nanjing University
 
-* Sep. 2014 - Jun. 2018
-<br>
-B.E., School of Data Science and Software Engineering, Qingdao University
 
 Selected Publications
 ======
 
 ## 2024
-<!--
 * Sentence embedding
   <br> 
-  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, and Qing Gu
+  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Zhengliang Li, and Qing Gu
   <br>
-  <i>arXiv: 2408.XXXXX</i>, 2024. (<b>arXiv 2024</b>)-->
+  <i>arXiv: 2412.XXXXX</i>, 2024. (<b>arXiv 2024</b>)
   
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
@@ -100,6 +96,7 @@ Selected Publications
 
 Selected Awards and Honors
 ======
+* National Scholarship, China, 2024
 * Huawei Scholarship, Nanjing University, 2022
 * Yingcai Scholarship, Nanjing University, 2021
 * YEEPAY Scholarship, Nanjing University, 2020
