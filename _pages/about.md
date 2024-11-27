@@ -14,7 +14,7 @@ Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.
 Main Research Interests
 ======
 
-I have a broad interest in large language models (LLMs) and natural language processing (NLP).
+I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
 * Test-time or training-free algorithm for LLMs
 
 * Attack and Defense of LLMs
