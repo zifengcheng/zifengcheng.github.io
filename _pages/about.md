@@ -23,8 +23,8 @@ I have a broad interest in large language models (LLMs) and natural language pro
 
 * Hallucinations of LLMs
 
-* Intervention and Editing for LLMs
-%My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.
+* Intervention and Editing Techniques for LLMs
+<!--My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.-->
 
 Research Experience
 ======
