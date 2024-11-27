@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my B.E. degree from Qingdao University, China in June 2018.
-In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu</a>.
-Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang</a> for a Ph.D. degree.
+I received my B.E. degree from Qingdao University in June 2018.
+In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a>.
+Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a> for a Ph.D. degree.
   
 Main Research Interests
 ======
