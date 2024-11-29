@@ -19,7 +19,7 @@ Main Research Interests
 I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
 * Test-time or training-free algorithm for LLMs
 
-* Attack and Defense of LLMs
+* Attack and Defense of LLMs, mainly including model extraction attacks and watermarking
 
 * Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks
 
@@ -125,6 +125,13 @@ Program Committee Member (Reviewer):
 
 * <b>Journal</b>: TASLP
 
+Students
+======
+* Shufan Yang (Ph.D., 2024-, co-supervised by Zhiwei Jiang)
+* Jinwei Gan (Ph.D., 2024-, co-supervised by Qing Gu and Zhiwei Jiang)
+* Changhui Sun (Master, 2024-, co-supervised by Qing Gu and Zhiwei Jiang)
+* Lingyun Qian (Master, 2024-, co-supervised by Qing Gu and Zhiwei Jiang)
+  
 Correspondence
 ======
 * <b>Email</b>: chengzf@smail.nju.edu.cn
