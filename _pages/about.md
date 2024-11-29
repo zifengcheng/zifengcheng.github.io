@@ -112,6 +112,7 @@ Selected Publications
 Selected Awards and Honors
 ======
 * National Scholarship, China, 2024
+* Yingcai Scholarship, Nanjing University, 2023
 * Huawei Scholarship, Nanjing University, 2022
 * Yingcai Scholarship, Nanjing University, 2021
 * YEEPAY Scholarship, Nanjing University, 2020
