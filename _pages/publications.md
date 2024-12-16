@@ -17,11 +17,6 @@ author_profile: true
  **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu<br>
   <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
 
-<!-- 
-* **Multi-Prompting Decoder Helps Better Language Understanding.** <br>
-  **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu<br>
-  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings (Findings of EMNLP 2024)</i><br>-->
-
 ## 2023
 * **Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling.** <br>
   **Zifeng Cheng**, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, Qing Gu. <br>
