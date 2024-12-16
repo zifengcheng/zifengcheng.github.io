@@ -17,15 +17,17 @@ Main Research Interests
 ======
 
 I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
+
+* Intervention and Editing Techniques for LLMs
+  
 * Test-time or training-free algorithm for LLMs
 
 * Attack and Defense of LLMs, mainly including model extraction attacks and watermarking
 
-* Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks
-
 * Hallucinations of LLMs
 
-* Intervention and Editing Techniques for LLMs
+* Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks
+
 <!--My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.-->
 
 Research Experience
@@ -47,9 +49,9 @@ Selected Publications
 ======
 
 ## 2024
-* Sentence embedding
+* Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs
   <br> 
-  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Zhengliang Li, and Qing Gu
+  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Zhonghui Wang, Yafeng Yin, Zhengliang Li, and Qing Gu
   <br>
   <i>arXiv: 2412.XXXXX</i>, 2024. (<b>arXiv 2024</b>)
   
