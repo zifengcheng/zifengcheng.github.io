@@ -7,7 +7,7 @@ author_profile: true
 ## 2024
 * **Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs.** <br>
   Yuchen Fu\*, **Zifeng Cheng**\*, Zhiwei Jiang, Yafeng Yin, Zhonghui Wang, Zhengliang Li, and Qing Gu<br>
-  <i>arXiv: 2412.XXX</i>, 2024. (<b>arXiv 2024</b>)
+  <i>arXiv: 2412.12556</i>, 2024. (<b>arXiv 2024</b>)
   
 * **A Debiased Nearest Neighbors Framework for Multi-Label Text Classification.** <br>
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu<br>
