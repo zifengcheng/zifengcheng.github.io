@@ -113,7 +113,7 @@ Selected Publications
 
 Selected Awards and Honors
 ======
-* The First Youth Talents Support Project - Doctoral Student Special Program, China, 2025 (only 3,000 doctoral students in China)
+* The First Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 2025 (only 3,000 doctoral students in China)
 * National Scholarship, China, 2024
 * Yingcai Scholarship, Nanjing University, 2023
 * Huawei Scholarship, Nanjing University, 2022
