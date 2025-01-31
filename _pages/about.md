@@ -116,6 +116,7 @@ Selected Awards and Honors
 * The First Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 2024 (only 3,226 doctoral students in China)
 * National Scholarship, China, 2024
 * Yingcai Scholarship, Nanjing University, 2023
+* Tencent Rhino-Bird Research Elite Program, 2022
 * Huawei Scholarship, Nanjing University, 2022
 * Yingcai Scholarship, Nanjing University, 2021
 * YEEPAY Scholarship, Nanjing University, 2020
