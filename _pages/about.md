@@ -24,9 +24,9 @@ I have a broad interest in large language models (LLMs) and natural language pro
 
 * Attack and Defense of LLMs, mainly including model extraction attacks and watermarking
 
-* Hallucinations of LLMs
+<!-- Hallucinations of LLMs-->
 
-* Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks
+<!-- Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks-->
 
 <!--My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.-->
 
