@@ -22,7 +22,6 @@ author_profile: true
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu<br>
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
 
-
 ## 2023
 * **Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling.** <br>
   **Zifeng Cheng**, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, Qing Gu. <br>
