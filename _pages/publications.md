@@ -15,7 +15,7 @@ author_profile: true
 
 * **Multi-Prompting Decoder Helps Better Language Understanding.** <br>
  **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu<br>
-  <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
+ <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings (Findings of ACL 2025)</i><br>
 
 ## 2024
 * **A Debiased Nearest Neighbors Framework for Multi-Label Text Classification.** <br>
