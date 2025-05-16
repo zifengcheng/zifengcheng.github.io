@@ -48,6 +48,25 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 Selected Publications
 ======
 
+## 2025
+* Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering
+  <br> 
+  <b>Zifeng Cheng</b>\*, Zhonghui Wang*, Yuchen Fu*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
+  <br>
+  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. ((<b>ACL 2025</b>)
+
+* Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs
+  <br> 
+  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Zhonghui Wang, Zhengliang Li, and Qing Gu
+  <br>
+  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. ((<b>ACL 2025</b>)
+  
+* Multi-Prompting Decoder Helps Better Language Understanding
+  <br> 
+  <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuliang Liu, and Qing Gu
+  <br>
+  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. ((<b>Findings of ACL 2025</b>)
+  
 ## 2024
 * Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs
   <br> 
@@ -61,18 +80,6 @@ Selected Publications
   <br>
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
 
-<!--
-* Multi-Prompting Decoder Helps Better Language Understanding
-  <br> 
-  <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuliang Liu, and Qing Gu
-  <br>
-  <i>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing - Findings</i>, 2024. (<b>Findings of EMNLP 2024</b>)-->
-
-* Multi-Prompting Decoder Helps Better Language Understanding
-  <br> 
-  <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu
-  <br>
-  <i>arXiv: 2406.06279</i>, 2024. (<b>arXiv 2024</b>)
   
 ## 2023
 * Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling
