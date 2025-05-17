@@ -17,6 +17,10 @@ author_profile: true
  **Zifeng Cheng**\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu<br>
  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings (Findings of ACL 2025)</i><br>
 
+ * **Fine-Grained Alignment Network for Zero-Shot Cross-Modal Retrieval.** <br>
+ Shiping Ge, Zhiwei Jiang, Yafeng Yin, Cong Wang, **Zifeng Cheng**, and Qing Gu<br>
+ <i>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM 2025)</i><br>
+ 
 ## 2024
 * **A Debiased Nearest Neighbors Framework for Multi-Label Text Classification.** <br>
   **Zifeng Cheng**, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu<br>
