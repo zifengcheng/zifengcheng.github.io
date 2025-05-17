@@ -68,11 +68,6 @@ Selected Publications
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. ((<b>Findings of ACL 2025</b>)
   
 ## 2024
-* Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs
-  <br> 
-  Yuchen Fu*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Zhonghui Wang, Yafeng Yin, Zhengliang Li, and Qing Gu
-  <br>
-  <i>arXiv: 2412.11556</i>, 2024. (<b>arXiv 2024</b>)
   
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
