@@ -48,7 +48,7 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 Selected Publications
 ======
 
-## 2025
+### 2025
 * Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering
   <br> 
   <b>Zifeng Cheng</b>\*, Zhonghui Wang*, Yuchen Fu*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
@@ -67,7 +67,7 @@ Selected Publications
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. ((<b>Findings of ACL 2025</b>)
   
-## 2024
+### 2024
   
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
@@ -76,14 +76,14 @@ Selected Publications
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
 
   
-## 2023
+### 2023
 * Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling
   <br> 
   <b>Zifeng Cheng</b>, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, and Qing Gu
   <br>
   <i>ACM Transactions on Information Systems</i>, 2023. (<b>TOIS 2023</b>)
 
-## 2022
+### 2022
 * A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
@@ -96,7 +96,7 @@ Selected Publications
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2022. (<b>TASLP 2022</b>)
     
-## 2021
+### 2021
     
 * A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
     <br>
@@ -104,7 +104,7 @@ Selected Publications
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
     
-## 2020
+### 2020
 
 * A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
