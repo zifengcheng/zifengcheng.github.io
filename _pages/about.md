@@ -63,7 +63,7 @@ Selected Publications
   
 * Multi-Prompting Decoder Helps Better Language Understanding
   <br> 
-  <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuliang Liu, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Zhaoling Chen*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. (<b>Findings of ACL 2025</b>)
   
