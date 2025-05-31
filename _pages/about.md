@@ -128,7 +128,7 @@ Professional Services
 ======
 Program Committee Member (Reviewer):
 <br>
-* <b>Conference</b>: ACL Rolling Review(ARR), ICLR(2025), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)
+* <b>Conference</b>: ACL Rolling Review(ARR), NeurIPS(2025), ICLR(2025), COLING(2024), EMNLP(2023), EMNLP(2022), COLING(2022), EMNLP(2021)
 
 * <b>Journal</b>: TASLP
   
