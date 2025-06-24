@@ -51,7 +51,7 @@ Selected Publications
 ### 2025
 * Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering
   <br> 
-  <b>Zifeng Cheng</b>\*, Zhonghui Wang*, Yuchen Fu*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Zhonghui Wang\*, Yuchen Fu\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. (<b>ACL 2025</b>)
 
