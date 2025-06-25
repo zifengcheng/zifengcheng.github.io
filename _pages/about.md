@@ -59,7 +59,7 @@ Selected Publications
   <br> 
   Yuchen Fu\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Zhonghui Wang, Zhengliang Li, and Qing Gu
   <br>
-  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. (<b>ACL 2025, oral</b>, accept rate=243/8350=2.9%)
+  <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. (<b>ACL 2025 oral</b>, accept rate=243/8350=2.9%)
   
 * Multi-Prompting Decoder Helps Better Language Understanding
   <br> 
