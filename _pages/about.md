@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my B.E. degree from Qingdao University in June 2018.
-In the same year, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a>.
-Currently, I am working with Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a> for a Ph.D. degree.
+I received my Ph.D. degree from the School of Computer Science at Nanjing University in June 2025 under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a>.
 
 From May 2022 to March 2023, I was a research intern at Tencent Cloud Xiaowei, where I worked under the mentorship of <a href="https://www.qyzhou.com/" target="_black">Qingyu Zhou (周青宇)</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Z_IPFVYAAAAJ" target="_black">Zhao Yan (闫昭)</a>, and <a href="https://scholar.google.com/citations?user=nNVDLb4AAAAJ&hl=zh-CN&oi=ao" target="_black">Yunbo Cao (曹云波)</a>.
   
