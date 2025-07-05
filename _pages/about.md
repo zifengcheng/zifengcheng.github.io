@@ -132,10 +132,13 @@ Program Committee Member (Reviewer):
   
 Students
 ======
-* Shufan Yang (Ph.D., 2024-, co-supervised with Zhiwei Jiang)
-* Jinwei Gan (Ph.D., 2024-, co-supervised with Qing Gu and Zhiwei Jiang)
-* Changhui Sun (Master, 2024-, co-supervised with Qing Gu and Zhiwei Jiang)
-* Lingyun Qian (Master, 2024-, co-supervised with Qing Gu and Zhiwei Jiang) 
+* Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang)
+* Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
+* Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Lingyun Qian (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Qiru Li (Master, 2025, co-supervised with Qing Gu and Zhiwei Jiang)
+* Hao Wang (Master, 2025, co-supervised with Zhiwei Jiang) 
   
 Correspondence
 ======
