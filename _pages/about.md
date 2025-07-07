@@ -126,7 +126,7 @@ Professional Services
 ======
 Program Committee Member (Reviewer):
 <br>
-* <b>Conference</b>: ACL ARR 2025 (Feb, May), NeurIPS(2025), ICLR(2025), ACL ARR 2024 (Feb., June, Aug., Dec.), EMNLP(2023), ACL ARR 2023 (Dec.), EMNLP(2022), COLING(2022), EMNLP(2021)
+* <b>Conference</b>: ACL ARR 2025 (Feb., May), NeurIPS(2025), ICLR(2025), ACL ARR 2024 (Feb., June, Aug., Dec.), EMNLP(2023), ACL ARR 2023 (Dec.), EMNLP(2022), COLING(2022), EMNLP(2021)
 
 * <b>Journal</b>: TASLP
   
