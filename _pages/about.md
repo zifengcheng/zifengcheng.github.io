@@ -30,7 +30,11 @@ I have a broad interest in large language models (LLMs) and natural language pro
 
 Research Experience
 ======
-* Sep. 2021 - Present
+* Sep. 2025 - now
+<br>
+Post-doctoral, Software Institute, Nanjing University
+
+* Sep. 2021 - Jun. 2025
 <br>
 Ph.D. Candidate, School of Computer Science, Nanjing University
 
