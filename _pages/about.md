@@ -138,12 +138,17 @@ Students
 ======
 * Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang)
 * Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Xiang Luo (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
+* Junjie Zhang (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
 * Lingyun Qian (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Yiheng Liang (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
 * Qiru Li (Master, 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Hao Wang (Master, 2025, co-supervised with Zhiwei Jiang) 
-  
+* Jianqiao Ni (Master, 2025, co-supervised with Zhiwei Jiang) 
+* Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) 
+
 Correspondence
 ======
 * <b>Email</b>: chengzf@smail.nju.edu.cn
