@@ -156,4 +156,5 @@ Correspondence
 * <b>Office</b>: Room 612, Computer Science Building, Xianlin Campus of Nanjing University
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GHg1pDYGxLHQEcRaaGQglxub3FFRXv8tiZ-bEXMaDS4&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GHg1pDYGxLHQEcRaaGQglxub3FFRXv8tiZ-bEXMaDS4&cl=ffffff&w=a"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=GHg1pDYGxLHQEcRaaGQglxub3FFRXv8tiZ-bEXMaDS4'></script>
