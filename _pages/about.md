@@ -139,10 +139,8 @@ Students
 ======
 * Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang)
 * Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang)
-```
 * Xiang Luo (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Ao Zhou (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
-```
 * Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Junjie Zhang (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
