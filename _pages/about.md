@@ -52,6 +52,12 @@ Selected Publications
 ======
 
 ### 2025
+* Steering When Necessary: Flexible Steering Large Language Models with Backtracking
+  <br> 
+  Jinwei Gan\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
+  <br>
+  <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025</b>)
+  
 * Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering
   <br> 
   <b>Zifeng Cheng</b>\*, Zhonghui Wang\*, Yuchen Fu\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
