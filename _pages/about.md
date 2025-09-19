@@ -52,6 +52,7 @@ Selected Publications
 ======
 
 ### 2025
+<small>
 * Steering When Necessary: Flexible Steering Large Language Models with Backtracking
   <br> 
   Jinwei Gan\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
@@ -75,6 +76,7 @@ Selected Publications
   <b>Zifeng Cheng</b>\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. (<b>Findings of ACL 2025</b>)
+  </small>
   
 ### 2024
   
