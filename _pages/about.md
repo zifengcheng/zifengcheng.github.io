@@ -121,6 +121,7 @@ Selected Publications
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
+  
 </small>
 
 Selected Awards and Honors
