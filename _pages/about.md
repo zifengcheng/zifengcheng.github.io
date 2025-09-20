@@ -76,9 +76,9 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. (<b>Findings of ACL 2025</b>)
 
-* Steering When Necessary: Flexible Steering Large Language Models with Backtracking
+* Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization
   <br> 
-  Cong Wang\*, Zexuan Deng\*, Zhiwei Jiang, Fei Shen, Yafeng Yin, <b>Zifeng Cheng</b>\*, Shiping Ge, Shiwei Gan, and Qing Gu
+  Cong Wang\*, Zexuan Deng\*, Zhiwei Jiang, Fei Shen, Yafeng Yin, <b>Zifeng Cheng</b>, Shiping Ge, Shiwei Gan, and Qing Gu
   <br>
   <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025 spotlight</b>, accept rate=765/21575=3.6%)
   
