@@ -51,7 +51,6 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)。
 
 ======
-<small>
   
 ### 2025
 * Steering When Necessary: Flexible Steering Large Language Models with Backtracking
@@ -122,8 +121,6 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
-  
-</small>
 
 Selected Awards and Honors
 ======
