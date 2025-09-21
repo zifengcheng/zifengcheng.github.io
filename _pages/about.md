@@ -157,7 +157,6 @@ Students
 * Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
 * Lingyun Qian (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
 * Yiheng Liang (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
-* Qiru Li (Master, 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Hao Wang (Master, 2025, co-supervised with Zhiwei Jiang) 
 * Jianqiao Ni (Master, 2025, co-supervised with Zhiwei Jiang) 
 * Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) 
