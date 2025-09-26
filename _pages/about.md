@@ -54,7 +54,7 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
 ### 2025
 * Steering When Necessary: Flexible Steering Large Language Models with Backtracking
   <br> 
-  Jinwei Gan\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Jinwei Gan\*, Zhiwei Jiang, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
   <br>
   <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025</b>)
   
