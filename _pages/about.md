@@ -82,7 +82,7 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
   <br>
   <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025 spotlight</b>, accept rate=765/21575=3.6%)
   
-### 2024
+### 2024 and before
   
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
@@ -90,15 +90,12 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
   <br>
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
 
-  
-### 2023
 * Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling
   <br> 
   <b>Zifeng Cheng</b>, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, and Qing Gu
   <br>
   <i>ACM Transactions on Information Systems</i>, 2023. (<b>TOIS 2023</b>)
 
-### 2022
 * A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
@@ -111,15 +108,11 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2022. (<b>TASLP 2022</b>)
     
-### 2021
-    
 * A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
     <br>
     <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
-    
-### 2020
 
 * A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
