@@ -50,6 +50,13 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 
 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 ======
+
+### 2026
+* RegionMarker: A Region-Triggered Semantic Watermarking Framework for Embedding-as-a-Service Copyright Protection
+  <br> 
+  Shufan Yang\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuchen Fu, and Qing Gu
+  <br>
+  <i>In Proceedings of The 40th Annual AAAI Conference on Artificial Intelligence</i>, 2026. (<b>AAAI 2026</b>)
   
 ### 2025
 * Steering When Necessary: Flexible Steering Large Language Models with Backtracking
