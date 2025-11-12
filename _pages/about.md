@@ -152,8 +152,8 @@ Reviewer:
   
 Students
 ======
-* Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang)
-* Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang)
+* Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang): AAAI 2026
+* Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang): NeurIPS 2025
 * Xiang Luo (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Ao Zhou (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
