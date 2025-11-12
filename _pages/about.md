@@ -127,6 +127,8 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
 
+* denotes equal contribution. † denotes the corresponding author.
+
 Selected Awards and Honors
 ======
 * The First Youth Talents Support Project - Doctoral Student Special Program, China Association for Science and Technology, 2024 (only 3,226 doctoral students in China)
