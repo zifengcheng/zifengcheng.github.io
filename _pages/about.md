@@ -48,7 +48,7 @@ M.Sc., Department of Computer Science and Technology, Nanjing University
 Tencent Cloud Xiaowei, CSIG, Tencent
 
 
-Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
+Selected Publications (* denotes equal contribution. † denotes the corresponding author.) [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 ======
 
 ### 2026
@@ -61,31 +61,31 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
 ### 2025
 * Steering When Necessary: Flexible Steering Large Language Models with Backtracking
   <br> 
-  <b>Zifeng Cheng</b>\*, Jinwei Gan\*, Zhiwei Jiang, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Jinwei Gan\*, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Xiang Luo, Yuchen Fu, and Qing Gu
   <br>
   <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025</b>)
   
 * Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering
   <br> 
-  <b>Zifeng Cheng</b>\*, Zhonghui Wang\*, Yuchen Fu\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Zhonghui Wang\*, Yuchen Fu\*, Zhiwei Jiang†, Yafeng Yin, Cong Wang, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. (<b>ACL 2025</b>)
 
 * Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs
   <br> 
-  Yuchen Fu\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang, Yafeng Yin, Zhonghui Wang, Zhengliang Li, and Qing Gu
+  Yuchen Fu\*, <b>Zifeng Cheng</b>\*, Zhiwei Jiang†, Yafeng Yin, Zhonghui Wang, Zhengliang Li, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics</i>, 2025. (<b>ACL 2025 oral</b>, accept rate=243/8350=2.9%)
   
 * Multi-Prompting Decoder Helps Better Language Understanding
   <br> 
-  <b>Zifeng Cheng</b>\*, Zhaoling Chen\*, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
+  <b>Zifeng Cheng</b>\*, Zhaoling Chen\*, Zhiwei Jiang†, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
   <br>
   <i>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics - Findings</i>, 2025. (<b>Findings of ACL 2025</b>)
 
 * Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization
   <br> 
-  Cong Wang\*, Zexuan Deng\*, Zhiwei Jiang, Fei Shen, Yafeng Yin, <b>Zifeng Cheng</b>, Shiping Ge, Shiwei Gan, and Qing Gu
+  Cong Wang\*, Zexuan Deng\*, Zhiwei Jiang†, Yafeng Yin†, Fei Shen, <b>Zifeng Cheng</b>, Shiping Ge, Shiwei Gan, and Qing Gu
   <br>
   <i>In Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems</i>, 2025. (<b>NeurIPS 2025 spotlight</b>, accept rate=765/21575=3.6%)
   
@@ -93,41 +93,39 @@ Selected Publications [(Full Publications)](https://scholar.google.com/citations
   
 * A Debiased Nearest Neighbors Framework for Multi-Label Text Classification
   <br> 
-  <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu
+  <b>Zifeng Cheng</b>, Zhiwei Jiang†, Yafeng Yin, Zhaoling Chen, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu
   <br>
   <i>arXiv: 2408.03202</i>, 2024. (<b>arXiv 2024</b>)
 
 * Unifying Token and Span Level Supervisions for Few-Shot Sequence Labeling
   <br> 
-  <b>Zifeng Cheng</b>, Qingyu Zhou, Zhiwei Jiang, Xuemin Zhao, Yunbo Cao, and Qing Gu
+  <b>Zifeng Cheng</b>, Qingyu Zhou, Zhiwei Jiang†, Xuemin Zhao, Yunbo Cao, and Qing Gu
   <br>
   <i>ACM Transactions on Information Systems</i>, 2023. (<b>TOIS 2023</b>)
 
 * A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction
     <br>
-    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
+    <b>Zifeng Cheng</b>, Zhiwei Jiang†, Yafeng Yin, Cong Wang, Shiping Ge, and Qing Gu
     <br>
     <i>ACM Transactions on Information Systems</i>, 2022. (<b>TOIS 2022</b>)
     
 * Learning to Classify Open Intent via Soft Labeling and Manifold Mixup
     <br>
-    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Cong Wang, and Qing Gu
+    <b>Zifeng Cheng</b>, Zhiwei Jiang†, Yafeng Yin, Cong Wang, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2022. (<b>TASLP 2022</b>)
     
 * A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
     <br>
-    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Na Li, and Qing Gu
+    <b>Zifeng Cheng</b>, Zhiwei Jiang†, Yafeng Yin, Na Li, and Qing Gu
     <br>
     <i>IEEE/ACM Transactions on Audio, Speech, and Language Processing</i>, 2021. (<b>TASLP 2021</b>)
 
 * A Symmetric Local Search Network for Emotion-Cause Pair Extraction
     <br>
-    <b>Zifeng Cheng</b>, Zhiwei Jiang, Yafeng Yin, Hua Yu, and Qing Gu
+    <b>Zifeng Cheng</b>, Zhiwei Jiang†, Yafeng Yin, Hua Yu, and Qing Gu
     <br>
     <i>In Proceedings of the 28th International Conference on Computational Linguistics</i>, 2020. (<b>COLING 2020</b>)
-
-* denotes equal contribution. † denotes the corresponding author.
 
 Selected Awards and Honors
 ======
