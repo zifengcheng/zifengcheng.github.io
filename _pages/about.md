@@ -17,11 +17,11 @@ Main Research Interests
 
 I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
 
-* Intervention and Editing Techniques for LLMs
-  
-* Test-time or training-free algorithm for LLMs
+* Training-free Intervention/Editing Techniques and Interpretability for LLMs
 
-* Attack and Defense of LLMs, mainly including model extraction attacks and watermarking
+* Diffusion Language Model
+
+* Watermarking for LLMs
 
 <!-- Hallucinations of LLMs-->
 
@@ -154,8 +154,6 @@ Students
 ======
 * Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang): AAAI 2026
 * Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang): NeurIPS 2025
-* Xiang Luo (Ph.D., 2025, co-supervised with Zhiwei Jiang)
-* Ao Zhou (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Junjie Zhang (Ph.D., 2025, co-supervised with Zhiwei Jiang)
 * Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
