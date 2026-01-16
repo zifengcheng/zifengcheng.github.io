@@ -150,7 +150,7 @@ Reviewer:
 
 * <b>Journal</b>: TASLP
   
-Students
+<!-- Students
 ======
 * Shufan Yang (Ph.D., 2024, co-supervised with Zhiwei Jiang): AAAI 2026
 * Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang): NeurIPS 2025
@@ -161,7 +161,7 @@ Students
 * Yiheng Liang (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
 * Hao Wang (Master, 2025, co-supervised with Zhiwei Jiang) 
 * Jianqiao Ni (Master, 2025, co-supervised with Zhiwei Jiang) 
-* Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) 
+* Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) -->
 
 Correspondence
 ======
