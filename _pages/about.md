@@ -12,8 +12,8 @@ I received my Ph.D. degree from the School of Computer Science at Nanjing Univer
 
 From May 2022 to March 2023, I was a research intern at Tencent Cloud Xiaowei, where I worked under the mentorship of <a href="https://www.qyzhou.com/" target="_black">Qingyu Zhou (周青宇)</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Z_IPFVYAAAAJ" target="_black">Zhao Yan (闫昭)</a>, and <a href="https://scholar.google.com/citations?user=nNVDLb4AAAAJ&hl=zh-CN&oi=ao" target="_black">Yunbo Cao (曹云波)</a>.
   
-Main Research Interests
-======
+# Main Research Interests
+
 
 I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
 
@@ -29,8 +29,8 @@ I have a broad interest in large language models (LLMs) and natural language pro
 
 <!--My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.-->
 
-Research Experience
-======
+# Research Experience
+
 * Sep. 2025 - now
 <br>
 Post-doctoral, Software Institute, Nanjing University
@@ -47,14 +47,14 @@ M.Sc., Department of Computer Science and Technology, Nanjing University
 <br>
 Tencent Cloud Xiaowei, CSIG, Tencent
 
-🔥 News
-======
+# 🔥 News
 
 * [2026.04] Two papers were accepted to ACL 2026 (Main Conference).
-
+* [2026.02] Two papers were accepted to CVPR 2026.
+* [2025.12] One paper was accepted to AAAI 2026.
+* [2025.09] Two papers were accepted to NeurIPS 2025.
 
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
-======
 
 ### 2026
 * RegionMarker: A Region-Triggered Semantic Watermarking Framework for Embedding-as-a-Service Copyright Protection
