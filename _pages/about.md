@@ -35,13 +35,9 @@ I have a broad interest in large language models (LLMs) and natural language pro
 <br>
 Post-doctoral, Software Institute, Nanjing University
 
-* Sep. 2021 - Jun. 2025
+* Sep. 2018 - Jun. 2025
 <br>
 Ph.D. Candidate, School of Computer Science, Nanjing University
-
-* Sep. 2018 - Jun. 2021
-<br>
-M.Sc., Department of Computer Science and Technology, Nanjing University
 
 * May 2022 - March 2023
 <br>
@@ -53,6 +49,7 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 * [2026.02] Two papers were accepted to CVPR 2026.
 * [2025.12] One paper was accepted to AAAI 2026.
 * [2025.09] Two papers were accepted to NeurIPS 2025.
+* [2025.05] Three papers were accepted to ACL 2026 (2 Main Conference & 1 Findings).
 
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 
