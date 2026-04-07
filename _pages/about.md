@@ -48,6 +48,9 @@ M.Sc., Department of Computer Science and Technology, Nanjing University
 Tencent Cloud Xiaowei, CSIG, Tencent
 
 🔥 News
+======
+
+* [2026.04] Two papers were accepted to ACL 2026 (Main Conference).
 
 
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
