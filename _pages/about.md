@@ -47,8 +47,10 @@ M.Sc., Department of Computer Science and Technology, Nanjing University
 <br>
 Tencent Cloud Xiaowei, CSIG, Tencent
 
+🔥 News
 
-Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
+
+# 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 ======
 
 ### 2026
