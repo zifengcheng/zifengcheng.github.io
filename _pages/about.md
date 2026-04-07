@@ -11,17 +11,13 @@ I am currently a postdoctoral researcher at the Software Institute, Nanjing Univ
 I received my Ph.D. degree from the School of Computer Science at Nanjing University in June 2025 under the supervision of Prof. <a href="https://isetnju.github.io/guq/index.html" target="_black">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_black"> Zhiwei Jiang (蒋智威)</a>.
 
 From May 2022 to March 2023, I was a research intern at Tencent Cloud Xiaowei, where I worked under the mentorship of <a href="https://www.qyzhou.com/" target="_black">Qingyu Zhou (周青宇)</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=Z_IPFVYAAAAJ" target="_black">Zhao Yan (闫昭)</a>, and <a href="https://scholar.google.com/citations?user=nNVDLb4AAAAJ&hl=zh-CN&oi=ao" target="_black">Yunbo Cao (曹云波)</a>.
+
+<span style="color:red;">PS: We are actively seeking motivated Ph.D., M.S., and undergraduate students in my research areas. If you are interested, please send your CV to me by email.</span>
   
 # Main Research Interests
 
 
-I have a broad interest in large language models (LLMs) and natural language processing (NLP). Currently, I am primarily focusing on the following aspects:
-
-* Training-free Intervention/Editing Techniques and Interpretability for LLMs
-
-* Diffusion Language Model
-
-* Watermarking for LLMs
+I have a broad interest in LLMs and NLP. Currently, I am primarily focusing on **Training-free Intervention/Editing Techniques and Interpretability for LLMs, Diffusion Language Models, and Efficient LLMs.**
 
 <!-- Hallucinations of LLMs-->
 
