@@ -41,11 +41,11 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 
 # 🔥 News
 
-* [2026.04] 🎉🎉 Two papers were accepted to ACL 2026 (Main Conference).
-* [2026.02] 🎉🎉 Two papers were accepted to CVPR 2026, including one highlight presentation.
+* [2026.04] 🎉🎉 Two papers were accepted to ACL 2026 (2 Main Conference).
+* [2026.02] 🎉🎉 Two papers were accepted to CVPR 2026, including 1 highlight presentation.
 * [2025.12] 🎉🎉 One paper was accepted to AAAI 2026.
-* [2025.09] 🎉🎉 Two papers were accepted to NeurIPS 2025, including one spotlight presentation.
-* [2025.05] 🎉🎉 Three papers were accepted to ACL 2026 (2 Main Conference & 1 Findings), including one oral presentation.
+* [2025.09] 🎉🎉 Two papers were accepted to NeurIPS 2025, including 1 spotlight presentation.
+* [2025.05] 🎉🎉 Three papers were accepted to ACL 2026 (2 Main Conference & 1 Findings), including 1 oral presentation.
 
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 
