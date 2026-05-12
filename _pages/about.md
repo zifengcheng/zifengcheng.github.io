@@ -51,6 +51,18 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 
 ### 2026
+* Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs
+  <br> 
+  <b>Zifeng Cheng</b>\, Lingyun Qian, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, and Qing Gu
+  <br>
+  <i>In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026. (<b>ACL 2026</b>)
+
+* AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM
+  <br> 
+  Shufan Yang\*, <b>Zifeng Cheng</b>\*†, Zhiwei Jiang†, Qingfeng Qi, Yafeng Yin, Cong Wang, Ao Zhou, and Qing Gu
+  <br>
+  <i>In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026. (<b>ACL 2026</b>)
+  
 * RegionMarker: A Region-Triggered Semantic Watermarking Framework for Embedding-as-a-Service Copyright Protection
   <br> 
   Shufan Yang\*, <b>Zifeng Cheng</b>\*†, Zhiwei Jiang†, Yafeng Yin, Cong Wang, Shiping Ge, Yuchen Fu, and Qing Gu
