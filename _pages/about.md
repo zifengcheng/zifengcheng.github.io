@@ -53,7 +53,7 @@ Tencent Cloud Xiaowei, CSIG, Tencent
 ### 2026
 * Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs
   <br> 
-  <b>Zifeng Cheng</b>\, Lingyun Qian, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, and Qing Gu
+  <b>Zifeng Cheng</b>, Lingyun Qian, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, and Qing Gu
   <br>
   <i>In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026. (<b>ACL 2026</b>)
 
