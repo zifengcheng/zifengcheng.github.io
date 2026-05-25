@@ -55,7 +55,7 @@ Tencent Cloud Xiaowei, CSIG, Tencent
   <br> 
   <b>Zifeng Cheng</b>, Lingyun Qian, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, and Qing Gu
   <br>
-  <i>In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026. (<b>ACL 2026</b>)
+  <i>In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026. (<b>ACL 2026 oral</b>, accept rate=X/X=X%)
 
 * AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM
   <br> 
