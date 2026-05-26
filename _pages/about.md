@@ -16,14 +16,7 @@ From May 2022 to March 2023, I was a research intern at Tencent Cloud Xiaowei, w
   
 # Main Research Interests
 
-
-I have a broad interest in LLMs and NLP. Currently, I am primarily focusing on **Training-free Intervention/Editing Techniques and Interpretability for LLMs, Diffusion Language Models, and Efficient LLMs.**
-
-<!-- Hallucinations of LLMs-->
-
-<!-- Downstream task adaptation of LLMs, including parameter-efficient fine-tuning, and few-shot or zero-shot learning on NLP tasks-->
-
-<!--My prior research experience included both emotion-cause pair extraction, open intent classification, multi-label text classification, essay scoring, and so on.-->
+I have a broad interest in LLMs and NLP. Currently, my research interests mainly include **LLM intervention and interpretability, representation learning and information retrieval, diffusion language models, and efficient LLMs.**
 
 # Research Experience
 
