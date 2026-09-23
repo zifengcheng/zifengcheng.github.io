@@ -22,15 +22,19 @@ I have a broad interest in LLMs and NLP. Currently, my research interests mainly
 
 * Sep. 2025 - now
 <br>
-Post-doctoral, Software Institute, Nanjing University
+Postdoctoral Researcher, Software Institute, Nanjing University
 
 * Sep. 2021 - Jun. 2025
 <br>
-Ph.D. Candidate, School of Computer Science, Nanjing University
+Ph.D. in Computer Science, School of Computer Science, Nanjing University
+
+* Sep. 2018 - Jun. 2021
+<br>
+M.S. in Computer Science, School of Computer Science, Nanjing University
 
 * May 2022 - March 2023
 <br>
-Tencent Cloud Xiaowei, CSIG, Tencent
+Research Intern, Tencent Cloud Xiaowei, CSIG, Tencent
 
 # 🔥 News
 
