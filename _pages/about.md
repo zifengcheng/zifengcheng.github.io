@@ -24,7 +24,7 @@ I have a broad interest in LLMs and NLP. Currently, my research interests mainly
 <br>
 Post-doctoral, Software Institute, Nanjing University
 
-* Sep. 2018 - Jun. 2025
+* Sep. 2021 - Jun. 2025
 <br>
 Ph.D. Candidate, School of Computer Science, Nanjing University
 
