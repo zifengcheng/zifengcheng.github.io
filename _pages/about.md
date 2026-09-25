@@ -49,6 +49,18 @@ Research Intern, Tencent Cloud Xiaowei, CSIG, Tencent
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 
 ### 2026
+* Accelerating Diffusion Language Models via Structured Suffix Modeling
+  <br> 
+  <b>Zifeng Cheng</b>\*, Keda Li\*, Zhiwei Jiang†, Cong Wang, Fei Shen, and Qing Gu
+  <br>
+  <i>In Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems</i>, 2026. (<b>NeurIPS 2026</b>)
+
+* SAME: Stability-Aware Embedding Extraction in Mixture-of-Experts Language Models
+  <br> 
+  Shufan Yang\*, <b>Zifeng Cheng</b>\*†, Zhiwei Jiang†, Hao Wang, Miao Xue, Changhui Sun, Cong Wang, Ao Zhou, and Qing Gu
+  <br>
+  <i>In Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems</i>, 2026. (<b>NeurIPS 2026</b>)
+  
 * Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs
   <br> 
   <b>Zifeng Cheng</b>, Lingyun Qian, Zhiwei Jiang†, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, and Qing Gu
