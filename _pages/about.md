@@ -184,6 +184,12 @@ Reviewer:
 * Jianqiao Ni (Master, 2025, co-supervised with Zhiwei Jiang) 
 * Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) -->
 
+Students
+======
+* Keda Li (Master, 2026-2028, co-supervised with Qing Gu): NeurIPS 2026
+* Xuyang Chen (Master, 2026-2028, co-supervised with Zhiwei Jiang)
+* Yixuan Kuang (Master, 2026-2028, co-supervised with Qing Gu)
+
 Correspondence
 ======
 * <b>Email</b>: chengzf@nju.edu.cn
