@@ -187,6 +187,7 @@ Reviewer:
 Students
 ======
 * Keda Li (Master, 2026-2028, co-supervised with Qing Gu): NeurIPS 2026
+* Yiming Yang (Master, 2026-2028, co-supervised with Zhiwei Jiang)
 * Xuyang Chen (Master, 2026-2028, co-supervised with Zhiwei Jiang)
 * Yixuan Kuang (Master, 2026-2028, co-supervised with Qing Gu)
 
