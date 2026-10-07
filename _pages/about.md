@@ -49,17 +49,6 @@ Research Intern, Tencent Cloud Xiaowei, CSIG, Tencent
 # 📝 Selected Publications [(Full Publications)](https://scholar.google.com/citations?user=msx09eYAAAAJ&hl=en)
 
 ### 2026
-* Accelerating Diffusion Language Models via Structured Suffix Modeling
-  <br> 
-  <b>Zifeng Cheng</b>\*, Keda Li\*, Zhiwei Jiang†, Cong Wang, Fei Shen, and Qing Gu
-  <br>
-  <i>In Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems</i>, 2026. (<b>NeurIPS 2026</b>)
-
-* SAME: Stability-Aware Embedding Extraction in Mixture-of-Experts Language Models
-  <br> 
-  Shufan Yang\*, <b>Zifeng Cheng</b>\*†, Zhiwei Jiang†, Hao Wang, Miao Xue, Changhui Sun, Cong Wang, Ao Zhou, and Qing Gu
-  <br>
-  <i>In Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems</i>, 2026. (<b>NeurIPS 2026</b>)
   
 * Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs
   <br> 
@@ -167,7 +156,7 @@ Area chair: ACL ARR 2025 (Oct.)
 
 Reviewer:
 <br>
-* <b>Conference</b>: ICML(2026), ACL ARR 2026 (Jan.), CVPR(2026), ICLR(2026, 2025), AAAI(2027, 2026), ACL ARR 2025 (Feb., May), NeurIPS(2026, 2025), ACL ARR 2024 (Feb., June, Aug., Dec.), EMNLP(2023, 2022, 2021), ACL ARR 2023 (Dec.), COLING(2022)
+* <b>Conference</b>: ICML(2026), ACL ARR 2026 (Jan.), CVPR(2026), ICLR(2027, 2026, 2025), AAAI(2027, 2026), ACL ARR 2025 (Feb., May), NeurIPS(2026, 2025), ACL ARR 2024 (Feb., June, Aug., Dec.), EMNLP(2023, 2022, 2021), ACL ARR 2023 (Dec.), COLING(2022)
 
 * <b>Journal</b>: TASLP
   
