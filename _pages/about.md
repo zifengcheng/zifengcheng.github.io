@@ -166,12 +166,7 @@ Reviewer:
 * Jinwei Gan (Ph.D., 2024, co-supervised with Qing Gu and Zhiwei Jiang): NeurIPS 2025
 * Wenxiang Wu (Ph.D., 2025, co-supervised with Qing Gu and Zhiwei Jiang)
 * Junjie Zhang (Ph.D., 2025, co-supervised with Zhiwei Jiang)
-* Changhui Sun (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
-* Lingyun Qian (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
-* Yiheng Liang (Master, 2024, co-supervised with Qing Gu and Zhiwei Jiang)
-* Hao Wang (Master, 2025, co-supervised with Zhiwei Jiang) 
-* Jianqiao Ni (Master, 2025, co-supervised with Zhiwei Jiang) 
-* Qingfeng Qi (Master, 2025, co-supervised with Zhiwei Jiang) -->
+-->
 
 Students
 ======
@@ -179,6 +174,7 @@ Students
 * Yiming Yang (Master, 2026-2028, co-supervised with Zhiwei Jiang)
 * Xuyang Chen (Master, 2026-2028, co-supervised with Zhiwei Jiang)
 * Yixuan Kuang (Master, 2026-2028, co-supervised with Qing Gu)
+* Yuqi Mao (Master, 2026-2028, co-supervised with Qing Gu)
 
 Correspondence
 ======
