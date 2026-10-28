@@ -152,6 +152,8 @@ Selected Awards and Honors
 
 Professional Services
 ======
+Senior Area chair: ACL ARR 2026 (Oct.)
+
 Area chair: ACL ARR 2025 (Oct.)
 
 Reviewer:
